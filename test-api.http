@@ -1,8 +1,12 @@
-GET http://localhost:8899/api/auth/
+GET http://localhost:8899/api/auth/xxx
 ###
 GET http://localhost:8899/api/post/
 ###
 # POST https://localhost:8899/api/auth/login
+
+POST http://localhost:8899/api/auth/loginfdfd
+//path err
+###
 
 POST http://localhost:8899/api/auth/login
 Content-Type: application/json
